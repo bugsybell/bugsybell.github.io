@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["G588ZXG856.com.pinzo.circa"],
+        "components": [
+          { "/": "/join/" },
+          { "/": "/invite/" }
+        ]
+      }
+    ]
+  }
+}
